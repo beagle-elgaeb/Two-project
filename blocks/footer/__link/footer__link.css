@@ -7,10 +7,6 @@
   font-weight: 100;
 }
 
-.footer__link:hover {
-  color: #B2B3B4;
-}
-
 @media (min-width: 320px) and (max-width: 768px) {
   .footer__link {
     display: inline-block;
