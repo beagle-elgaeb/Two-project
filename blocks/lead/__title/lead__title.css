@@ -4,6 +4,7 @@
   font-size: 96px;
   font-weight: 900;
   text-align: center;
+  text-rendering: optimizeLegibility;
   margin: 0 auto 32px;
 }
 
