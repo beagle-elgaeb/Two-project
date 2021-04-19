@@ -1,7 +1,7 @@
 # Путешествия по России
   
-Вторая учебная работа Никоновой Евгении для Яндекс.Практикум  
-https://beagle-elgaeb.github.io/russian-travel/index.html  
+## Вторая учебная работа Никоновой Евгении для Яндекс.Практикум  
+_[Ссылка на страницу на GitHub Pages](https://beagle-elgaeb.github.io/russian-travel/index.html)_  
   
 ### Описание:  
 Получившийся одностраничный сайт привлекает к путешествиям по России, демонстрирует галерею фотографий, ссылается на сторонние ресурсы, рассказывающие о красивых местах страны.  
@@ -26,4 +26,5 @@ https://beagle-elgaeb.github.io/russian-travel/index.html
 * GitHub Pages  
 * Адаптивная вёрстка  
   
+_[Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)_  
 _Работа выполнялась с 12 по 15 апреля_  
