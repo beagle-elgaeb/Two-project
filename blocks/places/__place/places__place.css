@@ -1,21 +1,24 @@
 .places__place {
   display: grid;
-  grid-template-columns: 45% auto;
-  grid-column-gap: 40px;
-  grid-row-gap: 48px;
-  margin: 0 0 80px;
+  grid-template-columns: 47% auto;
+  grid-column-gap: 39px;
+  grid-row-gap: 46px;
+  margin: 0 0 78px;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1280px) {
   .places__place {
+    grid-template-columns: 47.5% auto;
     grid-column-gap: 32px;
+    grid-row-gap: 47px;
+    margin-bottom: 64px;
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1024px) {
   .places__place {
     grid-column-gap: 28px;
-    margin-bottom: 73px;
+    margin-bottom: 47px;
   }
 }
 
@@ -23,7 +26,7 @@
   .places__place {
     display: grid;
     grid-template-columns: 1fr;
-    grid-row: 32px;
+    grid-row-gap: 32px;
     margin-bottom: 50px;
   }
 }

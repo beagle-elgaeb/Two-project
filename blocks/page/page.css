@@ -1,28 +1,28 @@
 .page {
   max-width: 1600px;
-  min-width: 1280px;
+  min-width: 1230px;
   background-color: #2a2c2f;
   color: #ffffff;
-  font-family: "Inter", sans-serif;
+  font-family: "Inter", Tahoma, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   margin: 0 auto;
 }
 
-@media (min-width: 1024px) and (max-width: 1280px) {
+@media screen and (max-width: 1280px) {
   .page {
-    min-width: 1024px;
+    min-width: 964px
   }
 }
 
-@media (min-width: 768px) and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
   .page {
-    min-width: 768px;
+    min-width: 718px
   }
 }
 
-@media (min-width: 320px) and (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .page {
-    min-width: 320px;
+    min-width: 270px
   }
 }
