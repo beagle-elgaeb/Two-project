@@ -2,7 +2,7 @@
 
 ## Вторая учебная работа Никоновой Евгении для Яндекс.Практикум
 
-_[Ссылка на страницу на GitHub Pages](https://beagle-elgaeb.github.io/russian-travel/index.html)_
+_[Ссылка на страницу на GitHub Pages](https://beagle-elgaeb.github.io/edu-russian-travel/index.html)_
 
 <p>
   <a href="https://developer.mozilla.org/ru/docs/Web/CSS"><img src="readme/icon-css3.svg" alt="CSS3"></a>
@@ -20,7 +20,7 @@ _[Ссылка на страницу на GitHub Pages](https://beagle-elgaeb.gi
 
 - отображение информации о путешествиях по России;
 - отображение галереи фотографий красивых мест;
-- [страница размещена на GitHub Pages](https://beagle-elgaeb.github.io/russian-travel/index.html);
+- [страница размещена на GitHub Pages](https://beagle-elgaeb.github.io/edu-russian-travel/index.html);
 - все ссылки, кроме ссылок выбора языка, рабочие и ведут на внешние ресурсы;
 - страница адаптируется с контрольными точками: 320px, 765px, 1024px, 1280px.
 
